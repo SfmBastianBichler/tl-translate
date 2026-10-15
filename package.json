@@ -1,0 +1,28 @@
+{
+  "name": "tl-translate",
+  "version": "1.0.0",
+  "description": "Free translator for the terminal – no API key, no dependencies",
+  "type": "module",
+  "bin": {
+    "tl": "bin/tl.mjs"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "translate",
+    "translator",
+    "cli",
+    "terminal",
+    "google-translate"
+  ],
+  "author": "Bastian Bichler",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SfmBastianBichler/tl-translate.git"
+  }
+}
